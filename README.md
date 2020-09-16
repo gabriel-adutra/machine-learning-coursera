@@ -1,4 +1,6 @@
-This course provides a broad introduction to machine learning, datamining and statistical pattern recognition. Topics include: 
+This course provides a broad introduction to machine learning, datamining and statistical pattern recognition.
+
+Topics include: 
 
 * Supervised learning (parametric / nonparametric algorithms, support vector machines, kernels, neural networks). 
 * Unsupervised learning (clustering, dimensionality reduction, recommendation systems, deep learning). 
